@@ -1,0 +1,1 @@
+package com.example.kinesiscommercesystemsample.purchase.consumer.mom;
